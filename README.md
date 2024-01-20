@@ -11,7 +11,8 @@ Sentiment analysis of a video using facial recognition involves analyzing the fa
 
 # Sample Video:
 
-![image](https://github.com/ParamjeetSingh29/Sentiment-Analysis-of-Video-using-Facial-Recognition-/assets/150776496/b1b8207e-7f52-4c29-ae82-f9c3f6afb345)
+https://github.com/ParamjeetSingh29/Sentiment-Analysis-of-Video-using-Facial-Recognition-/assets/150776496/f9831da3-ee45-46e4-b613-612d4f9fbbe7
+
 
 # Analysis Table:
 
