@@ -27,9 +27,13 @@ https://github.com/ParamjeetSingh29/Sentiment-Analysis-of-Video-using-Facial-Rec
 ![Screenshot (49)](https://github.com/ParamjeetSingh29/Sentiment-Analysis-of-Video-using-Facial-Recognition-/assets/150776496/96a8fa86-827f-4d7c-a7ba-acd8a6aa3004)
 
 1.Open the code in any IDE
+
 2.Run the code
+
 3.Then go to any browser and paste "http://localhost:5000"
+
 4.Put the details and select the video
+
 5.Click on Submit
 
 # Analysis Results:
